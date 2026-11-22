@@ -2,6 +2,11 @@
 
 **Not the official Project Arena: a starting point for your own version.**
 
+**Just want to play?** Get the official game: [on Meta Quest](https://www.meta.com/experiences/1342896058915258/),
+or the Quest APK and PC VR builds from [Project Arena's releases](https://github.com/jendoebelin/ProjectArena-public/releases/latest)
+([how to install](https://github.com/jendoebelin/ProjectArena-public/blob/main/docs/INSTALL.md)). This repository has
+no builds to download: it's the game's source in Unity, for making your own version or seeing how it works.
+
 A free, open-source VR court sport for **Meta Quest** and **PC VR**, built in **Unity**. Two players face each other in a
 glass arena and throw, curve, catch and punch glowing energy balls. Hit your opponent to score; a charged ball raises
 your shield; send a ball through their ring for a strike.
@@ -19,7 +24,7 @@ so your headset and theirs meet in the same arena rooms, on the LAN or on the co
 | ![A player in the CIRCUIT suit](docs/images/player.jpg) | ![Avatars: countries, faces, hair, headgear](docs/images/avatars.jpg) |
 | **Your avatar:** suits, builds, faces, hair that moves, headgear, face shields, masks, gauntlets, patterns and colours, or your country's team kit | **Countries:** 205 flags; a country's kit, its flag on your back and its colours on your end of the court |
 | ![The avatar builder and its mirror](docs/images/builder.jpg) | ![The title menu with your avatar](docs/images/title.jpg) |
-| **The avatar builder:** a mirror that copies you, a panel on each side | **The title menu** in the lobby, your avatar on its pedestal |
+| **The avatar builder:** a mirror that copies you, a panel on each side | **The title menu** in the lobby: your TRAINING bests on its left, your avatar beside it |
 | ![The multiplayer page](docs/images/multiplayer.jpg) | ![The spectator hub](docs/images/spectator_hub.jpg) |
 | **Multiplayer:** host a room or join one; queue for the tank; voice chat | **Spectating:** every live arena in miniature; point at one to watch it |
 | ![Director tools](docs/images/director_tools.jpg) | ![The crowd in the stands](docs/images/crowd.jpg) |
@@ -57,8 +62,9 @@ Give your version its own name. Please don't present it as the official Project 
 
 ## What's in it
 
-- **Play the bot:** practice against a bot, Basic or Advanced rules, with MATCH OPTIONS: shields on or off (HOTDOG
-  MODE), knuckle guards, the match or round time.
+- **Play the bot:** practice against bots in the room you choose (SQUARE, DIAMOND, FOUR CORNERS for four players,
+  FIREBALL BLITZ), with its options: shields on or off (HOTDOG MODE), knuckle guards, the time, the foul line and more.
+- **TRAINING:** lessons that each teach one skill (throwing, defending, catching); MY BESTS keeps your bests.
 - **The lobby:** a balcony over the court with the menu, your TRAINING bests and your avatar beside it, and two bots playing below.
 - **Avatars and the builder** (pictures above).
 - **Multiplayer:**
@@ -68,7 +74,7 @@ Give your version its own name. Please don't present it as the official Project 
     host's kick.
 - **Career statistics on the server:** MY STATS, with DELETE MY STATS.
 - **Spectating:** the hub of live arenas, the gallery seat, and the director tools.
-- **The Crowd:** fans on their phones cheer and wave flags in the stands.
+- **The Crowd:** fans following on their phones wave flags in the stands, and the arena's lights flare when they cheer.
 - **REPORT A BUG** from inside the game.
 
 ## Where things are

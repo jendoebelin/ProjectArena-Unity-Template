@@ -1120,7 +1120,7 @@ namespace ProjectArena.EditorTools
                 holder.AddComponent<MeshRenderer>().sharedMaterials = mats;
             }
             Vector3 eye2 = NativeSpace.ToUnity(head.p);
-            Vec3Look(out Quaternion rot, eye2, NativeSpace.ToUnity(Lobby.Spot + new Sim.Vec3(0.35f, 1.25f, -1.3f)));   // (the menu 1.3 m out, the figure at its right: native 1159a46)
+            Vec3Look(out Quaternion rot, eye2, NativeSpace.ToUnity(Lobby.Spot + new Sim.Vec3(-0.1f, 1.2f, -1.3f)));   // (the menu 1.3 m out, MY BESTS at its left, the figure at its right: native 1159a46)
             Shot("showcase", eye2, rot, 90f, draw: Title);
 
             // the builder opened on the balcony (a Quest 3, 2026-11-14: opened from the menu, no reflection to see): facing the
