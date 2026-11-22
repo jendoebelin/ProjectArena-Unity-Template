@@ -1,0 +1,12 @@
+# Converted open assets: binary, never line-ending converted (their SHA-256 is in manifest.json)
+*.glb binary
+*.png binary
+*.wav binary
+*.bytes binary
+Assets/ProjectArena/Art/Open/** -text
+# Unity text assets
+*.unity text eol=lf
+*.prefab text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.mat text eol=lf

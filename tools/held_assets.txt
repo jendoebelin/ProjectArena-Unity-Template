@@ -1,0 +1,4 @@
+# Outputs in Assets/ProjectArena/Art/Open that keep their earlier open (CC BY 4.0) version: the native file's newer
+# version is under other terms. tools/convert_assets.py doesn't replace them; tools/check_assets.py doesn't compare
+# their sources. One path per line, relative to Art/Open; a # starts a note.
+Audio/oa_ShieldBreak.wav   # native 0.3.19's shield break: a community member's sound, layered from Pixabay effects (not CC BY)

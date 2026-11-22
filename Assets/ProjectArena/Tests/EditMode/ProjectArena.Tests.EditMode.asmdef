@@ -1,0 +1,29 @@
+{
+    "name": "ProjectArena.Tests.EditMode",
+    "rootNamespace": "ProjectArena.Tests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "ProjectArena.Sim",
+        "ProjectArena.SimCompare",
+        "ProjectArena.Runtime",
+        "ProjectArena.Avatar",
+        "ProjectArena.Net",
+        "Unity.XR.OpenXR"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

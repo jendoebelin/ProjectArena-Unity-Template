@@ -1,0 +1,24 @@
+{
+    "name": "ProjectArena.Runtime",
+    "rootNamespace": "ProjectArena",
+    "references": [
+        "ProjectArena.Sim",
+        "ProjectArena.Avatar",
+        "ProjectArena.Net",
+        "Unity.XR.CoreUtils",
+        "Unity.InputSystem",
+        "Unity.XR.OpenXR",
+        "Unity.XR.MetaOpenXR",
+        "Unity.RenderPipelines.Universal.Runtime",
+        "Unity.RenderPipelines.Core.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

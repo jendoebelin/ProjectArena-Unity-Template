@@ -1,0 +1,2 @@
+Native simulation traces from github.com/jendoebelin/ProjectArena commit c2e64a07ac985b088cf54537814cde8b56038196 (app/src/game.cpp),
+made by tools/sim_compare/run.bat. Compared by Assets/ProjectArena/Tests/EditMode/SameResultsTests.cs.

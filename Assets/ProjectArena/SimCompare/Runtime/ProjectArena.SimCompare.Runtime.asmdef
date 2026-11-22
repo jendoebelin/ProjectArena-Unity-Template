@@ -1,0 +1,17 @@
+{
+    "name": "ProjectArena.SimCompare.Runtime",
+    "rootNamespace": "ProjectArena.SimCompare",
+    "references": [
+        "ProjectArena.Sim",
+        "ProjectArena.SimCompare"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,38 @@
+# Unity (generated: never commit)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.apk
+*.aab
+*.keystore
+*.jks
+crashlytics-build.properties
+sysinfo.txt
+.vs/
+.idea/
+.DS_Store
+# local secrets and machine settings
+*.local.cfg
+# Android native build cache (Unity 6)
+/.utmp/
+
+# the community server of a build (written by Builds from servers.local.cfg; never in git)
+servers.local.cfg
+/Assets/ProjectArena/Resources/servers_default.txt
+/Assets/ProjectArena/Resources/servers_default.txt.meta
